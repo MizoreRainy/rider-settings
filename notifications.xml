@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IGNORE_GROUP" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="System Messages" shouldLog="false" />
+  </component>
+</application>

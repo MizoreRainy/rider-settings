@@ -1,0 +1,14 @@
+<code_scheme name="Default">
+  <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+  </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
