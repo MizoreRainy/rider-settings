@@ -1,0 +1,19 @@
+<keymap version="1" name="Visual Studio OSX copy" parent="Visual Studio OSX">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta alt t" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="meta pause" />
+  </action>
+  <action id="Print" />
+  <action id="RiderOpenSolution" />
+</keymap>
