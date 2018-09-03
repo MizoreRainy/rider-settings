@@ -35,10 +35,4 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
-  <action id="TriggerPlayInUnity">
-    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
-  </action>
-  <action id="TriggerRefreshInUnity">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
-  </action>
 </keymap>
