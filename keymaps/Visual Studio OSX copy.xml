@@ -16,4 +16,8 @@
   </action>
   <action id="Print" />
   <action id="RiderOpenSolution" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
 </keymap>
