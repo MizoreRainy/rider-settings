@@ -55,6 +55,7 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -63,6 +64,7 @@
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -71,6 +73,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
