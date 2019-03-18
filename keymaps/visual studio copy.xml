@@ -106,6 +106,10 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="meta j" />
