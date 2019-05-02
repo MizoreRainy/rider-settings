@@ -24,5 +24,8 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
   </component>
 </application>
